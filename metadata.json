@@ -1,0 +1,5 @@
+{
+  "name": "NeuroGuard: GSR & Stroop Drowsiness Detector",
+  "description": "A comprehensive machine learning platform for drowsiness detection using Galvanic Skin Response (GSR) and Stroop test reaction times, featuring synthetic data generation, signal preprocessing, and model evaluation.",
+  "requestFramePermissions": []
+}
